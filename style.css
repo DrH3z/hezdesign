@@ -1,0 +1,45 @@
+#cont
+{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#logo
+{
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 15px;
+}
+#nav
+{	
+	float: left;
+	background-color: lightgray;
+	padding: 10px;
+	width: 150px;
+	min-height: 1500px;
+}
+#info
+{
+	float: left;
+	padding: 20px;
+	text-align: center;
+	widht: 520px;
+}
+#ad
+{
+	float: left;
+	padding: 10px;
+	background-color: lightgray;
+	text-align: center;
+	width: 250px;
+	min-height: 1500px;
+}
+#footer
+{
+	clear: both;
+	background-color: black;
+	color: white;
+	padding: 15px;
+	text-align: center;
+}
